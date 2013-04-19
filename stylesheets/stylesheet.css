@@ -81,7 +81,7 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
+  /*background: url('../images/bg_hr.png') repeat-x bottom;*/
 }
 
 h3 {
@@ -376,7 +376,7 @@ Full-Width Styles
 
 #main_content h2 {
   border-bottom: 2px solid #C44D58;
-  padding-bottom: 5px;
+  padding-bottom: 0;
 }
 
 #main_content h3 {
