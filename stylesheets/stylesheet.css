@@ -374,7 +374,14 @@ Full-Width Styles
   background: #556269;
 }
 
+#main_content h2 {
+  border-bottom: 2px solid #C44D58;
+  padding-bottom: 5px;
+}
 
+#main_content h3 {
+  border-bottom: 1px solid #C44D58;
+}
 
 /*******************************************************************************
 Small Device Styles
