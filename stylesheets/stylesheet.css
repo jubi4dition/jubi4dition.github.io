@@ -272,7 +272,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 644px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -381,6 +381,10 @@ Full-Width Styles
 
 #main_content h3 {
   border-bottom: 1px solid #C44D58;
+}
+
+.red {
+  border: 2px solid #C44D58;
 }
 
 /*******************************************************************************
